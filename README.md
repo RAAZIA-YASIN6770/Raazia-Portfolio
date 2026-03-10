@@ -1,89 +1,64 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Raazia Yasin
+# 🚀 Premium Portfolio | Raazia Yasin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Web+Designing;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=45&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;UI%2FUX+Designer;Django+Specialist;Tech+Educator" alt="Typing SVG" />
 </div>
 
+---
 
-## 💫 About Me
+### 💫 About Me
+I am a driven **Python Developer** and **Web Designer** dedicated to creating high-performance, user-centric digital experiences. With a strong foundation in **Django** and a keen eye for **UI/UX design**, I bridge the gap between complex logic and beautiful interfaces.
 
-I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in  Microsoft Office and enjoy teaching others about technology. My goal is to deliver high-quality solutions that meet user needs.
+- � **Backend Mastery:** Building scalable APIs and web applications with Python & Django.
+- 🎨 **Design Driven:** Crafting modern, accessible interfaces using Figma and CSS3.
+- 📊 **Data Focused:** Leveraging libraries like Pandas and NumPy for insightful analysis.
+- 👩‍🏫 **Knowledge Sharing:** Passionate about community service and technical teaching.
 
-My Journey Includes:
-- 🚀 Developed multiple projects using Python and its frameworks
-- 🎯 Expertise in Python libraries like Pandas, NumPy, and scikit-learn
-- 💻 Proficient in  Microsoft Office (Excel, Word, PowerPoint)
-- 👩‍🏫 Experienced teacher with a passion for sharing knowledge
-- 🌟 Strong problem-solving skills with a keen eye for detail
-- 💡 Experience in working on both individual and team projects
-- 📊 Passionate about data analysis and visualization
-- 🧬 Learning advanced concepts in machine learning and AI
+---
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🛠️ Technical Arsenal
 
-Here's a bit about me in code:
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python (Advanced), HTML5, CSS3, JavaScript |
+| **Frameworks** | Django, REST Framework |
+| **Design** | Figma, Wireframing, Prototyping, Glassmorphism |
+| **Tools** | Git/GitHub, VS Code, MS Office Specialist |
+| **Databases** | SQLite, PostgreSQL |
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.current_role = "Python Developer"
-        self.passions = [
-            "Python Development",
-            "Microsoft Office",
-            "Teaching"
-        ]
-        self.experience = {
-            "Python": 2, 
-            "Microsoft Office": 5,
-            "Teaching": 3
-        }
+---
 
-    @property
-    def fun_fact(self):
-        return "I enjoy teaching and building smart solutions! 🚀"
-```
+### 📂 Featured Ecosystem
 
-<h2 align="center">️ 📂 Featured Projects ⚒️</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-    <Python Mastery Project />
-      <br>Python Mastery Project
-     </td>
-   <td align="center" width="90">
-    <Auto & Hobby - UI/UX Design />
-      <br> Auto & Hobby - UI/UX Design
-     </td>
-  </tr>
-</table>
-<br>
+#### [Python Mastery Project](https://github.com/RAAZIA-YASIN6770/Python-Project)
+> A deep dive into Object-Oriented Programming (OOP), showcasing inheritance, encapsulation, and modular design patterns.
 
-<h2 align="center">📫 Connect with Me 📊🔥</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-    <Email: 18.bscs.844@gmail.com />
-      <br>Email: 18.bscs.844@gmail.com
-     </td></tr><br>
-      <tr>
-   <td align="center" width="90">
-    <GitHub: @RAAZIA-YASIN6770 />
-      <br> GitHub: @RAAZIA-YASIN6770
-     </td>
-  </tr>
-          <tr>
-   <td align="center" width="90">
-    < />
-      <br> GitHub: @RAAZIA-YASIN6770
-     </td>
-  </tr>
-</table>
-<br/>
+#### [Auto & Hobby - UI/UX Design](https://www.figma.com/design/w0WTTuLtV7qh2FUgFy1XZf/mubaid16699-s-team-library?t=lcEsqWDog2KVRkd9-0)
+> A high-fidelity Figma prototype for a premium vehicle detailing service, focusing on conversion-centric design.
 
-<h2 align="center">⚡ Fun Fact</h2>
-<p>I believe that clean code is just as important as a clean UI. When I'm not coding, I'm usually exploring new design trends or contributing to community service.</p>
+---
 
+### 📬 Let's Connect
 
+<div align="center">
+  <a href="mailto:18.bscs.844@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RAAZIA-YASIN6770">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pk.indeed.com/">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+  </a>
+</div>
 
+---
 
+### ⚡ Professional Philosophy
+> "Code is the foundation, but Design is the soul of every application." 
 
+I believe in **clean code**, **meaningful UI**, and **continuous learning**. When I'm not developing, I'm usually exploring new design trends or contributing to community initiatives.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAAZIA-YASIN6770&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
