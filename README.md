@@ -65,12 +65,7 @@ class AboutMe:
     <Email: 18.bscs.844@gmail.com />
       <br>Email: 18.bscs.844@gmail.com
      </td></tr><br>
-      <tr>
-   <td align="center" width="90">
-    <GitHub: @RAAZIA-YASIN6770 />
-      <br> GitHub: @RAAZIA-YASIN6770
-     </td>
-  </tr>
+    
           <tr>
    <td align="center" width="90">
     < />
