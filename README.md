@@ -9,7 +9,7 @@
 ### 💫 About Me
 I am a driven **Python Developer** and **Web Designer** dedicated to creating high-performance, user-centric digital experiences. With a strong foundation in **Django** and a keen eye for **UI/UX design**, I bridge the gap between complex logic and beautiful interfaces.
 
-- � **Backend Mastery:** Building scalable APIs and web applications with Python & Django.
+- 🚀 **Backend Mastery:** Building scalable APIs and web applications with Python & Django.
 - 🎨 **Design Driven:** Crafting modern, accessible interfaces using Figma and CSS3.
 - 📊 **Data Focused:** Leveraging libraries like Pandas and NumPy for insightful analysis.
 - 👩‍🏫 **Knowledge Sharing:** Passionate about community service and technical teaching.
